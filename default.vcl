@@ -1,6 +1,6 @@
 vcl 4.0;
 backend default {
-    .host = "cdn.thetube.ch";
+    .host = "myhost";
     .port = "80";
 }
 
