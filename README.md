@@ -17,7 +17,7 @@ Run
 ---
 
 You can edit default.vcl or map with the `-v` command
-Ports are not exposed because I use `--link` option
+Ports are not exposed because I use `--net` option
 
 `sudo docker run -ti -d --name=varnish benjamingrogg/alpine-varnish`
 
